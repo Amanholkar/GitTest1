@@ -12,5 +12,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String Name = "This is my name Aman";
+
+        String Change = "local changes";
+
+        String Dev = "Dev branch  changes";
+
     }
 }
