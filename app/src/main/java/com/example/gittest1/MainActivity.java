@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         String Change = "local changes";
 
-        String Dev = "Dev branch  changes";
+        String Dev = "Dev branch  changes3";
 
         String local = "local change and swith to master branch";
 
