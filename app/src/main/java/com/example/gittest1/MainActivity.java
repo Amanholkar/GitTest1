@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        String Name1 = "this is my name 1";
+
         String Name = "This is my name Aman";
 
         String Change = "local changes";
